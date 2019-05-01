@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\MergeListsTests.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\MergeListsTests.pdb
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\MergeLinkedLists.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\MergeLinkedLists.pdb
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\obj\Debug\MergeListsTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\obj\Debug\MergeListsTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\obj\Debug\MergeListsTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\obj\Debug\MergeListsTests.dll
+C:\Users\reeves\source\repos\Code Signal\MergeLinkedLists\MergeListsTests\obj\Debug\MergeListsTests.pdb
